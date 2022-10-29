@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+
+h1, p{
+    text-align: center;
+    color: blueviolet;
+}
+
+img{
+    display:block;
+    margin: 5vh auto;
+}

@@ -1,0 +1,10 @@
+22-10-28	16:13:06	efdf4b2a-10db-4729-ad3c-da07f033d015	/new-page	GET
+22-10-28	16:13:07	669ebd3c-a00c-4a3e-bbdf-89d06c0507ad	/css/styles.css	GET
+22-10-28	16:13:07	219ba37e-9c24-4981-9768-07ad0049d07e	/img/Rectangle.png	GET
+22-10-28	16:13:08	489b5aeb-fe9d-4ebe-816f-3e722dafbb7d	/new-page	GET
+22-10-28	16:13:08	62513883-ab0f-4ea8-bc96-0b1de28c65bf	/css/styles.css	GET
+22-10-28	16:13:08	d0406686-f77f-49a3-bf61-367366d81f07	/img/Rectangle.png	GET
+22-10-28	16:14:59	0d2bb99c-849c-41e3-8930-3d71cd17e2f4	/new-page	GET
+22-10-28	16:15:44	e8e43fcc-f4bd-4693-a3a9-242a256166d6	/new-page	GET
+22-10-28	16:15:44	d718058e-4d41-41d7-ad34-52550483350a	/css/styles.css	GET
+22-10-28	16:15:44	b17ad068-c5e7-4828-971c-f9007fdabf7b	/img/Rectangle.png	GET
